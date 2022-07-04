@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "codeceptjs": "^3.3.3",
+    "joi": "^17.6.0",
+    "playwright": "^1.23.1"
+  },
+  "name": "testingapi",
+  "version": "1.0.0",
+  "main": "ToDo_test.js",
+  "devDependencies": {
+    "mocha": "^8.1.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Henyi Carvajal",
+  "license": "ISC",
+  "description": "Technical Assessment for HMH"
+}

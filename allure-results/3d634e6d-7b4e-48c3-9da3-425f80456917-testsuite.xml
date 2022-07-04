@@ -1,0 +1,297 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1656946753604' stop='1656946756718'>
+    <name>ToDo:</name>
+    <title>ToDo:</title>
+    <test-cases>
+        <test-case start='1656946753605' status='passed' stop='1656946754344'>
+            <name>Check Quote list</name>
+            <title>Check Quote list</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1656946753616' status='passed' stop='1656946753617'>
+                    <name>I am bearer authenticated *****</name>
+                    <title>I am bearer authenticated *****</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946753617' status='passed' stop='1656946754296'>
+                    <name>I send get request "/quotes"</name>
+                    <title>I send get request "/quotes"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946754339' status='passed' stop='1656946754340'>
+                    <name>I see response code is successful </name>
+                    <title>I see response code is successful </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946754340' status='passed' stop='1656946754342'>
+                    <name>I see response contains keys ["quotes"]</name>
+                    <title>I see response contains keys ["quotes"]</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946754343' status='passed' stop='1656946754343'>
+                    <name>Showing the list of quotes in the terminal</name>
+                    <title>Showing the list of quotes in the terminal</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946754343' status='passed' stop='1656946754343'>
+                    <name>Validation test for the keys of each quote</name>
+                    <title>Validation test for the keys of each quote</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946754343' status='passed' stop='1656946754343'>
+                    <name>Validation schema done - all good</name>
+                    <title>Validation schema done - all good</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946754343' status='passed' stop='1656946754343'>
+                    <name>Validation schema done - all good</name>
+                    <title>Validation schema done - all good</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946754343' status='passed' stop='1656946754343'>
+                    <name>Validation schema done - all good</name>
+                    <title>Validation schema done - all good</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946754343' status='passed' stop='1656946754343'>
+                    <name>Validation schema done - all good</name>
+                    <title>Validation schema done - all good</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946754343' status='passed' stop='1656946754343'>
+                    <name>Validation schema done - all good</name>
+                    <title>Validation schema done - all good</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946754343' status='passed' stop='1656946754343'>
+                    <name>Validation schema done - all good</name>
+                    <title>Validation schema done - all good</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946754343' status='passed' stop='1656946754343'>
+                    <name>Validation schema done - all good</name>
+                    <title>Validation schema done - all good</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946754343' status='passed' stop='1656946754343'>
+                    <name>Validation schema done - all good</name>
+                    <title>Validation schema done - all good</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946754343' status='passed' stop='1656946754343'>
+                    <name>Validation schema done - all good</name>
+                    <title>Validation schema done - all good</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946754343' status='passed' stop='1656946754343'>
+                    <name>Validation schema done - all good</name>
+                    <title>Validation schema done - all good</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946754343' status='passed' stop='1656946754343'>
+                    <name>Validation schema done - all good</name>
+                    <title>Validation schema done - all good</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946754343' status='passed' stop='1656946754343'>
+                    <name>Validation schema done - all good</name>
+                    <title>Validation schema done - all good</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946754343' status='passed' stop='1656946754343'>
+                    <name>Validation schema done - all good</name>
+                    <title>Validation schema done - all good</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946754343' status='passed' stop='1656946754343'>
+                    <name>Validation schema done - all good</name>
+                    <title>Validation schema done - all good</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946754343' status='passed' stop='1656946754343'>
+                    <name>Validation schema done - all good</name>
+                    <title>Validation schema done - all good</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946754343' status='passed' stop='1656946754343'>
+                    <name>Validation schema done - all good</name>
+                    <title>Validation schema done - all good</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946754344' status='passed' stop='1656946754344'>
+                    <name>Validation schema done - all good</name>
+                    <title>Validation schema done - all good</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946754344' status='passed' stop='1656946754344'>
+                    <name>Validation schema done - all good</name>
+                    <title>Validation schema done - all good</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946754344' status='passed' stop='1656946754344'>
+                    <name>Validation schema done - all good</name>
+                    <title>Validation schema done - all good</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946754344' status='passed' stop='1656946754344'>
+                    <name>Validation schema done - all good</name>
+                    <title>Validation schema done - all good</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946754344' status='passed' stop='1656946754344'>
+                    <name>Validation schema done - all good</name>
+                    <title>Validation schema done - all good</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946754344' status='passed' stop='1656946754344'>
+                    <name>Validation schema done - all good</name>
+                    <title>Validation schema done - all good</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946754344' status='passed' stop='1656946754344'>
+                    <name>Validation schema done - all good</name>
+                    <title>Validation schema done - all good</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946754344' status='passed' stop='1656946754344'>
+                    <name>Validation schema done - all good</name>
+                    <title>Validation schema done - all good</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1656946754347' status='failed' stop='1656946755416'>
+            <name>Create an session- to select a fav quote</name>
+            <title>Create an session- to select a fav quote</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1656946754349' status='passed' stop='1656946754349'>
+                    <name>I am bearer authenticated *****</name>
+                    <title>I am bearer authenticated *****</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946754349' status='passed' stop='1656946754684'>
+                    <name>I send post request "/api/session", {"user":{"login":"henyi.carvajal@gmail.com","password":"Testing@4me"}}</name>
+                    <title>I send post request "/api/session", {"user":{"login":"henyi.carvajal@gmail.com","password":"Testing@4me"}}</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946754685' status='failed' stop='1656946755415'>
+                    <name>I see response code is successful </name>
+                    <title>I see response code is successful </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>expected 404 to be below 300</message>
+                <stack-trace>AssertionError: expected 404 to be below 300
+                    at JSONResponse.seeResponseCodeIsSuccessful (/Users/ng/Documents/codeceptProjects/testingApi/node_modules/codeceptjs/lib/helper/JSONResponse.js:165:40)
+                    at Step.run (/Users/ng/Documents/codeceptProjects/testingApi/node_modules/codeceptjs/lib/step.js:122:47)
+                    at /Users/ng/Documents/codeceptProjects/testingApi/node_modules/codeceptjs/lib/actor.js:134:23</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1656946755422' status='passed' stop='1656946756715'>
+            <name>Vote for your favorite</name>
+            <title>Vote for your favorite</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1656946755428' status='passed' stop='1656946755428'>
+                    <name>I am bearer authenticated *****</name>
+                    <title>I am bearer authenticated *****</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946755428' status='passed' stop='1656946756019'>
+                    <name>I send get request "/quotes"</name>
+                    <title>I send get request "/quotes"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946756021' status='passed' stop='1656946756021'>
+                    <name>Selecting a random quote as fav</name>
+                    <title>Selecting a random quote as fav</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946756022' status='passed' stop='1656946756356'>
+                    <name>I send put request "/quotes/59203/fav"</name>
+                    <title>I send put request "/quotes/59203/fav"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946756357' status='passed' stop='1656946756357'>
+                    <name>I see response code is successful </name>
+                    <title>I see response code is successful </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946756358' status='passed' stop='1656946756711'>
+                    <name>I send get request "/quotes/59203"</name>
+                    <title>I send get request "/quotes/59203"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946756713' status='passed' stop='1656946756713'>
+                    <name>I see response code is successful </name>
+                    <title>I see response code is successful </title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946756714' status='passed' stop='1656946756715'>
+                    <name>I see response valid by callback ({ expect, data }) => {
+                            expect(favCountAfter === favCountBefore).to.eql(true);
+                          }</name>
+                    <title>I see response valid by callback ({ expect, data }) => {
+                            expect(favCountAfter === favCountBefore).to.eql(true);
+                          }</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1656946756715' status='passed' stop='1656946756715'>
+                    <name>We coud not select this quote as fav</name>
+                    <title>We coud not select this quote as fav</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
